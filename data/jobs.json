@@ -1,0 +1,69 @@
+{
+  "jobs": [
+    {
+      "id": "nvidia-2027-internship-deep-learning",
+      "company": "NVIDIA",
+      "role": "2027 Internship: Deep Learning",
+      "url": "https://jobs.nvidia.com/careers/job/893397026418",
+      "location": "Santa Clara / Remote US",
+      "remote": false,
+      "pay": "$40-$65/hr (aggregator-reported)",
+      "pay_source": "aggregator estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "web_search 2026-10-28",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "13-track NVIDIA 2027 Internships series; no close date listed",
+      "added": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    {
+      "id": "google-student-researcher-bs-ms-winter-summer-2027",
+      "company": "Google",
+      "role": "Student Researcher, BS/MS, Winter-Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/114416552819729094-student-researcher-bsms-wintersummer-2027",
+      "location": "US (multiple locations)",
+      "remote": false,
+      "pay": "$43-$58/hr (BS)",
+      "pay_source": "aggregator snippet (HRT Facebook post citing Google posting) — verify on apply page",
+      "deadline": null,
+      "term": "Winter-Summer 2027",
+      "status": "interested",
+      "source": "web_search 2026-10-28",
+      "tags": [
+        "ml",
+        "research",
+        "umd-friendly",
+        "undergrad-eligible"
+      ],
+      "notes": "Rolling review, early submission encouraged; BS/MS eligible — good fit for UMD undergrad",
+      "added": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    {
+      "id": "google-forward-deployed-engineering-intern-bs-ms-summer-2027",
+      "company": "Google",
+      "role": "Forward Deployed Engineering Intern, BS/MS, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027",
+      "location": "New York, NY (and others)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "web_search 2026-10-28",
+      "tags": [
+        "swe",
+        "ml-adjacent"
+      ],
+      "notes": "BS/MS eligible",
+      "added": "2026-10-28",
+      "updated": "2026-10-28"
+    }
+  ]
+}
