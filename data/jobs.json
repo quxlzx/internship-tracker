@@ -10792,6 +10792,136 @@
       "notes": "",
       "added": "2026-10-28",
       "updated": "2026-10-28"
+    },
+    {
+      "id": "scale-ai-software-engineering-intern-summer-2027-2",
+      "company": "Scale AI",
+      "role": "Software Engineering Intern (Summer 2027)",
+      "url": "https://scale.com/careers/4730834005",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-10-28",
+      "tags": [
+        "ml",
+        "ai-infra",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    {
+      "id": "walt-disney-company-enterprise-technology-data-software-engi",
+      "company": "Walt Disney Company",
+      "role": "Enterprise Technology & Data Software Engineering Intern, Summer 2027",
+      "url": "https://www.disneycareers.com/en/job/orlando/enterprise-technology-and-data-software-engineering-intern-summer-2027/391/102524650928",
+      "location": "Orlando, FL",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-10-28",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    {
+      "id": "lyft-data-science-intern-algorithms-summer-2027",
+      "company": "Lyft",
+      "role": "Data Science Intern - Algorithms - Summer 2027",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002",
+      "location": "San Francisco / NYC",
+      "remote": false,
+      "pay": "$58/hr",
+      "pay_source": "aggregator estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-10-28",
+      "tags": [
+        "ml",
+        "data-science",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    {
+      "id": "microsoft-software-engineer-ai-ml-llm-intern-redmond",
+      "company": "Microsoft",
+      "role": "Software Engineer: AI/ML & LLM Intern (Redmond)",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-llm-intern-opportunities-for-university-students-redmond-at-microsoft-4474300187",
+      "location": "Redmond, WA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-10-28",
+      "tags": [
+        "ml",
+        "llm",
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    {
+      "id": "rtx-software-engineering-intern-summer-2027",
+      "company": "RTX",
+      "role": "Software Engineering Intern (Summer 2027)",
+      "url": "https://careers.rtx.com/global/en/job/01884532/Software-Engineering-Intern-Summer-2027",
+      "location": "US (multiple)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-10-28",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-10-28",
+      "updated": "2026-10-28"
+    },
+    {
+      "id": "intel-ai-hardware-engineering-intern",
+      "company": "Intel",
+      "role": "AI Hardware Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533",
+      "location": "Santa Clara, CA +1",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-10-28",
+      "tags": [
+        "ai-infra",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-10-28",
+      "updated": "2026-10-28"
     }
   ]
 }
