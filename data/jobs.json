@@ -11545,6 +11545,166 @@
       "notes": "",
       "added": "2026-11-01",
       "updated": "2026-11-01"
+    },
+    {
+      "id": "amazon-sde-intern-summer-2027-usa-program-page",
+      "company": "Amazon",
+      "role": "SDE Intern Summer 2027 (USA) - program page",
+      "url": "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students",
+      "location": "",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "master-list 2026-11-24",
+      "tags": [
+        "master-list"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "nvidia-ai-computing-software-development-intern-llm-inferenc",
+      "company": "NVIDIA",
+      "role": "AI Computing Software Development Intern, LLM Inference - 2027",
+      "url": "https://jobs.nvidia.com/careers/job/893397913166",
+      "location": "",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "master-list 2026-11-24",
+      "tags": [
+        "master-list"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "adobe-2027-intern-machine-learning-engineer-2",
+      "company": "Adobe",
+      "role": "2027 Intern, Machine Learning Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R171519/2027-Intern-Machine-Learning-Engineer",
+      "location": "",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "master-list 2026-11-24",
+      "tags": [
+        "master-list"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "microsoft-undergraduate-research-internship-computing-summer",
+      "company": "Microsoft",
+      "role": "Undergraduate Research Internship - Computing, Summer 2027",
+      "url": "https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/",
+      "location": "",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "master-list 2026-11-24",
+      "tags": [
+        "master-list"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "ibm-ai-ml-engineer-intern-2027-san-jose",
+      "company": "IBM",
+      "role": "AI/ML Engineer Intern 2027 - San Jose",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135597",
+      "location": "",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "master-list 2026-11-24",
+      "tags": [
+        "master-list"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "edison-international-software-data-engineering-intern-2",
+      "company": "Edison International",
+      "role": "Software/Data Engineering Intern",
+      "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino",
+      "location": "",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "dropped",
+      "source": "master-list 2026-11-24",
+      "tags": [
+        "master-list"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "khan-academy-software-engineer-intern-summer-2027",
+      "company": "Khan Academy",
+      "role": "Software Engineer Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
+      "location": "",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "master-list 2026-11-24",
+      "tags": [
+        "master-list"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "umd-risc-research-internship-applied-research-lab-for-intell",
+      "company": "UMD",
+      "role": "RISC Research Internship (Applied Research Lab for Intelligence and Security)",
+      "url": "https://www.arlis.umd.edu/apply-risc",
+      "location": "",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "master-list 2026-11-24",
+      "tags": [
+        "master-list"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
     }
   ]
 }
