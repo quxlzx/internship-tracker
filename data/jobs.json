@@ -1192,12 +1192,14 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "dropped",
+      "status": "interested",
       "source": "migrated from legacy state file",
-      "tags": [],
+      "tags": [
+        "queued"
+      ],
       "notes": "",
       "added": "2026-10-28",
-      "updated": "2026-10-28"
+      "updated": "2026-11-02"
     },
     {
       "id": "general-motors-2027-summer-intern-machine-learning-engineer-",
