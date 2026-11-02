@@ -1197,7 +1197,7 @@
       "tags": [
         "queued"
       ],
-      "notes": "Pay provenance: posting pay-transparency section (SF/NYC): $120,000-$150,000 USD. Deadline: none stated. Re-filled on Greenhouse 2026-11-02 (run 12) with corrected fields: school start year 2025 (per profile.yaml, NOT 2024) + LinkedIn https://www.linkedin.com/in/laynce-lim-a20a92369; all 7 dropdowns + texts DOM-verified; OCR-verified screenshots v3_identity/v3_education/v3_questions attached to kanban card t_cbf93392; NOT submitted, awaiting Laynce approval.",
+      "notes": "Pay provenance: posting pay-transparency section (SF/NYC): $120,000-$150,000 USD. Deadline: none stated. SUBMIT CONSENT given 2026-11-02 (Discord). Submit run 2026-11-02: form re-filled + DOM-verified (start 2025, LinkedIn filled, resume chip Laynce_H_Lim_Resume.pdf); real-mouse click on Submit fired captcha (token 2425 chars) but POST to boards.greenhouse.io returned HTTP 428 (captcha precondition — server-side bot wall flags headless browsers). NOT submitted. Needs human final click in a real browser: https://job-boards.greenhouse.io/scaleai/jobs/4735665005 — values on kanban card t_cbf93392.",
       "added": "2026-10-28",
       "updated": "2026-11-02"
     },
