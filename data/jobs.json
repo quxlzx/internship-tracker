@@ -11707,6 +11707,89 @@
       "notes": "",
       "added": "2026-11-02",
       "updated": "2026-11-02"
+    },
+    {
+      "id": "nvidia-ai-systems-software-engineering-intern-summer-2027",
+      "company": "NVIDIA",
+      "role": "AI Systems Software Engineering Intern - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
+      "location": "Austin, TX",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-02",
+      "tags": [
+        "ml",
+        "ai-infra",
+        "swe"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "amazon-2027-frontier-ai-robotics-internship-undergraduate",
+      "company": "Amazon",
+      "role": "2027 Frontier AI & Robotics Internship (Undergraduate)",
+      "url": "https://www.amazon.jobs/en/jobs/10564599/2027-frontier-ai-robotics-internship-undergraduate-united-states-frontier-ai-robotics-frontier-ai-robotics",
+      "location": "US (multiple)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-02",
+      "tags": [
+        "ml",
+        "ai"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "amazon-software-development-engineer-intern-summer-2027-usa-2",
+      "company": "Amazon",
+      "role": "Software Development Engineer Intern - Summer 2027 (USA)",
+      "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
+      "location": "US (multiple)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "dropped",
+      "source": "daily-scan-2026-11-02",
+      "tags": [
+        "swe"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    {
+      "id": "vercel-software-engineering-intern-summer-2027",
+      "company": "Vercel",
+      "role": "Software Engineering Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-02",
+      "tags": [
+        "swe"
+      ],
+      "notes": "",
+      "added": "2026-11-02",
+      "updated": "2026-11-02"
     }
   ]
 }
