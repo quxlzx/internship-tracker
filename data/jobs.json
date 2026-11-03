@@ -1195,10 +1195,9 @@
       "status": "applied",
       "source": "migrated from legacy state file",
       "tags": [
-        "applied-manual-2026-11-03",
-        "queued"
+        "applied-unverified"
       ],
-      "notes": "Pay provenance: posting pay-transparency section (SF/NYC): $120,000-$150,000 USD. Deadline: none stated. SUBMIT CONSENT given 2026-11-02 (Discord). Submit run 2026-11-02: form re-filled + DOM-verified (start 2025, LinkedIn filled, resume chip Laynce_H_Lim_Resume.pdf); real-mouse click on Submit fired captcha (token 2425 chars) but POST to boards.greenhouse.io returned HTTP 428 (captcha precondition — server-side bot wall flags headless browsers). NOT submitted. Needs human final click in a real browser: https://job-boards.greenhouse.io/scaleai/jobs/4735665005 — values on kanban card t_cbf93392.",
+      "notes": "Pay provenance: posting pay-transparency section (SF/NYC): $120,000-$150,000 USD. Deadline: none stated. SUBMIT CONSENT given 2026-11-02 (Discord). Submit run 2026-11-02: form re-filled + DOM-verified (start 2025, LinkedIn filled, resume chip Laynce_H_Lim_Resume.pdf); real-mouse click on Submit fired captcha (token 2425 chars) but POST to boards.greenhouse.io returned HTTP 428 (captcha precondition — server-side bot wall flags headless browsers). NOT submitted. Needs human final click in a real browser: https://job-boards.greenhouse.io/scaleai/jobs/4735665005 — values on kanban card t_cbf93392. | LAPTOP ROUTE 2026-11-03: form filled in headed Chrome on laptop 100.85.169.95; page later observed at /confirmation URL -> Laynce clicked Submit (~01:47-03:07). Confirmation ID NOT yet verified; school field showed 'UMD Baltimore County' in last DOM read (defect from arrow-nav), Laynce asked on Discord what school showed at submit. Tracker flips to confirmed-<ID> after email/app-ID check. NOTE: apply laptop = 100.85.169.95 (id_ed25519_laptop); ssh alias 'desktop' = 100.78.133.35 is a DIFFERENT machine.",
       "added": "2026-10-28",
       "updated": "2026-11-03"
     },
