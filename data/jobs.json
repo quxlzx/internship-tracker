@@ -11680,14 +11680,14 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "master-list 2026-11-24",
       "tags": [
         "master-list"
       ],
       "notes": "",
       "added": "2026-11-02",
-      "updated": "2026-11-02"
+      "updated": "2026-11-03"
     },
     {
       "id": "umd-risc-research-internship-applied-research-lab-for-intell",
