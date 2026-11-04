@@ -11983,6 +11983,113 @@
       "notes": "",
       "added": "2026-11-03",
       "updated": "2026-11-03"
+    },
+    {
+      "id": "nvidia-ai-compiler-and-kernel-intern-summer-2027",
+      "company": "NVIDIA",
+      "role": "AI Compiler and Kernel Intern - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+      "location": "Austin, TX",
+      "remote": false,
+      "pay": "$62/hr",
+      "pay_source": "aggregator-estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-04",
+      "tags": [
+        "ml",
+        "internship",
+        "ai-infra"
+      ],
+      "notes": "",
+      "added": "2026-11-04",
+      "updated": "2026-11-04"
+    },
+    {
+      "id": "news-corp-summer-2027-internship-program-software-engineerin",
+      "company": "News Corp",
+      "role": "Summer 2027 Internship Program - Software Engineering Intern",
+      "url": "https://careers.newscorp.com/new-york-ny/summer-2027-internship-program-software-engineering-intern/EB29A8BA2BAC40D3855B950A63ACF2E3/job/",
+      "location": "New York, NY",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": "2026-11-13",
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-04",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-04",
+      "updated": "2026-11-04"
+    },
+    {
+      "id": "ptc-onshape-onshape-software-engineer-intern-summer-2027",
+      "company": "PTC (Onshape)",
+      "role": "Onshape Software Engineer Intern (Summer 2027)",
+      "url": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943",
+      "location": "Boston, MA",
+      "remote": false,
+      "pay": "$32-$36/hr",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-04",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-04",
+      "updated": "2026-11-04"
+    },
+    {
+      "id": "ptc-onshape-onshape-sysops-intern-summer-2027",
+      "company": "PTC (Onshape)",
+      "role": "Onshape SysOps Intern (Summer 2027)",
+      "url": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Onshape-SysOps-Intern--Summer-2027-_JR112928",
+      "location": "Boston, MA",
+      "remote": false,
+      "pay": "$32-$36/hr",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-04",
+      "tags": [
+        "infra",
+        "internship",
+        "swe"
+      ],
+      "notes": "",
+      "added": "2026-11-04",
+      "updated": "2026-11-04"
+    },
+    {
+      "id": "klaviyo-software-engineer-intern-summer-2027-2",
+      "company": "Klaviyo",
+      "role": "Software Engineer Intern (Summer 2027)",
+      "url": "https://app.joinhandshake.com/public/jobs/11473204",
+      "location": "Boston, MA (onsite)",
+      "remote": false,
+      "pay": "$49.50-$60.50/hr",
+      "pay_source": "aggregator-estimate",
+      "deadline": "2026-11-21",
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-04",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-04",
+      "updated": "2026-11-04"
     }
   ]
 }
