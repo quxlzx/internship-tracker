@@ -12480,6 +12480,158 @@
       "notes": "",
       "added": "2026-11-05",
       "updated": "2026-11-05"
+    },
+    {
+      "id": "amazon-software-development-engineer-intern-aws-database-202-2",
+      "company": "Amazon",
+      "role": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+      "location": "Seattle, WA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-06",
+      "tags": [
+        "ml",
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-06",
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "amazon-software-development-engineer-intern-summer-2027-usa-",
+      "company": "Amazon",
+      "role": "Software Development Engineer Intern - Summer 2027 (USA), Amazon Dedicated Cloud (ADC)",
+      "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
+      "location": "Seattle, WA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-06",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-06",
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "amazon-software-development-engineer-intern-annapurna-labs-2",
+      "company": "Amazon",
+      "role": "Software Development Engineer Intern, Annapurna Labs - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+      "location": "Cupertino, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-06",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-06",
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "amazon-data-engineer-internship-2027-us",
+      "company": "Amazon",
+      "role": "Data Engineer Internship - 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
+      "location": "Seattle, WA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-06",
+      "tags": [
+        "data",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-06",
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "gm-2027-summer-intern-ai-ml-engineer-autonomous-vehicles",
+      "company": "GM",
+      "role": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
+      "url": "https://search-careers.gm.com/en/jobs/jr-202623439/2027-summer-intern-ai-ml-engineer-autonomous-vehicles/",
+      "location": "Sunnyvale, CA (hybrid)",
+      "remote": false,
+      "pay": "$9,600-$11,800 per month",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-06",
+      "tags": [
+        "ml",
+        "ai-infra",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-06",
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "ibm-ai-foundations-software-engineer-research-internship-202",
+      "company": "IBM",
+      "role": "AI Foundations - Software Engineer - Research Internship 2027",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/AI-Foundations-Software-Engineer-Research-Internship-2027/131307",
+      "location": "Yorktown Heights, NY / San Jose, CA / Cambridge, MA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-06",
+      "tags": [
+        "ml",
+        "ai-infra",
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-06",
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "ibm-ibm-research-research-software-intern-137471",
+      "company": "IBM",
+      "role": "IBM Research - Research Software Intern (137471)",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail/IBM-Research-Research-Software-Intern/137471",
+      "location": "US (IBM Research)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-06",
+      "tags": [
+        "swe",
+        "ai-infra",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-06",
+      "updated": "2026-11-06"
     }
   ]
 }
