@@ -12632,6 +12632,174 @@
       "notes": "",
       "added": "2026-11-06",
       "updated": "2026-11-06"
+    },
+    {
+      "id": "nvidia-ai-infrastructure-and-frameworks-intern-cosmos-lab-20",
+      "company": "NVIDIA",
+      "role": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
+      "url": "https://jobs.nvidia.com/careers/job/893397740065",
+      "location": "Santa Clara, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-07",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-07",
+      "updated": "2026-11-07"
+    },
+    {
+      "id": "t-mobile-summer-2027-ai-engineering-internship",
+      "company": "T-Mobile",
+      "role": "Summer 2027 AI Engineering Internship",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765",
+      "location": "Bellevue, WA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": "2026-11-12",
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-07",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-07",
+      "updated": "2026-11-07"
+    },
+    {
+      "id": "zebra-technologies-2027-summer-internship-us-software-engine",
+      "company": "Zebra Technologies",
+      "role": "2027 Summer Internship (US) - Software Engineer",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657",
+      "location": "Holtsville, NY",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": "2026-11-09",
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-07",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-07",
+      "updated": "2026-11-07"
+    },
+    {
+      "id": "leidos-software-engineering-ai-intern",
+      "company": "Leidos",
+      "role": "Software Engineering & AI Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220",
+      "location": "Remote, USA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-07",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-07",
+      "updated": "2026-11-07"
+    },
+    {
+      "id": "amazon-software-development-engineer-intern-amazon-leo-summe-2",
+      "company": "Amazon",
+      "role": "Software Development Engineer Intern, Amazon Leo - Summer 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+      "location": "Redmond, WA",
+      "remote": false,
+      "pay": "$53/hr",
+      "pay_source": "aggregator-estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-07",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-07",
+      "updated": "2026-11-07"
+    },
+    {
+      "id": "electronic-arts-anticheat-engineer-intern-summer-2027",
+      "company": "Electronic Arts",
+      "role": "Anticheat Engineer Intern - Summer 2027",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242",
+      "location": "California, USA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-07",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-07",
+      "updated": "2026-11-07"
+    },
+    {
+      "id": "asm-intern-product-intelligence-engineering-ai-ml",
+      "company": "ASM",
+      "role": "Intern, Product Intelligence Engineering (AI/ML)",
+      "url": "https://job-boards.greenhouse.io/asm/jobs/5029228101",
+      "location": "Phoenix, AZ (+1)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-07",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-07",
+      "updated": "2026-11-07"
+    },
+    {
+      "id": "applied-materials-summer-2027-data-science-intern-bachelor-s-2",
+      "company": "Applied Materials",
+      "role": "Summer 2027 Data Science Intern - Bachelor's/Master's",
+      "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
+      "location": "Santa Clara, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-07",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-07",
+      "updated": "2026-11-07"
     }
   ]
 }
