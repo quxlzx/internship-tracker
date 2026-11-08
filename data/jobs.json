@@ -12800,6 +12800,113 @@
       "notes": "",
       "added": "2026-11-07",
       "updated": "2026-11-07"
+    },
+    {
+      "id": "paypal-software-engineer-intern-summer-2027",
+      "company": "PayPal",
+      "role": "Software Engineer Intern - Summer 2027",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Software-Engineer-Intern---Summer-2027_R0138586",
+      "location": "San Jose, CA",
+      "remote": false,
+      "pay": "$32-$55/hr",
+      "pay_source": "employer-posted",
+      "deadline": "2026-12-07",
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-08",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-08",
+      "updated": "2026-11-08"
+    },
+    {
+      "id": "bytedance-ai-infrastructure-engineer-intern-compute-efficien",
+      "company": "ByteDance",
+      "role": "AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer",
+      "url": "https://joinbytedance.com/search/7668801556469762357",
+      "location": "San Jose / Seattle, WA",
+      "remote": false,
+      "pay": "$45/hr",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-08",
+      "tags": [
+        "ai-infra",
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-08",
+      "updated": "2026-11-08"
+    },
+    {
+      "id": "cargill-software-engineer-intern-summer-2027",
+      "company": "Cargill",
+      "role": "Software Engineer Intern Summer 2027",
+      "url": "https://careers.cargill.com/en/job/atlanta/software-engineer-intern-summer-2027-atlanta-ga/23251/98765470480",
+      "location": "Atlanta, GA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-08",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-08",
+      "updated": "2026-11-08"
+    },
+    {
+      "id": "nvidia-technical-learning-content-development-intern-physica",
+      "company": "NVIDIA",
+      "role": "Technical Learning Content Development Intern, Physical AI - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Technical-Learning-Content-Development-Intern--Physical-AI---Summer-2027_JR2028148",
+      "location": "Santa Clara, CA",
+      "remote": false,
+      "pay": "$20-$71/hr",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-08",
+      "tags": [
+        "ai",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-08",
+      "updated": "2026-11-08"
+    },
+    {
+      "id": "amazon-software-development-engineer-intern-co-op-robotics-2",
+      "company": "Amazon",
+      "role": "Software Development Engineer Intern/Co-Op, Robotics - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
+      "location": "North Reading, MA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-08",
+      "tags": [
+        "swe",
+        "robotics",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-08",
+      "updated": "2026-11-08"
     }
   ]
 }
