@@ -10828,7 +10828,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-10-28",
       "tags": [
         "swe",
@@ -10836,7 +10836,7 @@
       ],
       "notes": "",
       "added": "2026-10-28",
-      "updated": "2026-10-28"
+      "updated": "2026-11-11"
     },
     {
       "id": "lyft-data-science-intern-algorithms-summer-2027",
@@ -13045,7 +13045,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-10",
       "tags": [
         "ml",
@@ -13053,7 +13053,7 @@
       ],
       "notes": "",
       "added": "2026-11-10",
-      "updated": "2026-11-10"
+      "updated": "2026-11-11"
     },
     {
       "id": "palantir-software-engineer-internship-sovereign-ai-systems",
