@@ -12665,15 +12665,17 @@
       "pay_source": "",
       "deadline": "2026-11-12",
       "term": "Summer 2027",
-      "status": "new",
+      "status": "applied",
       "source": "daily-scan-2026-11-07",
       "tags": [
+        "confirmed-REQ380765",
+        "internship",
         "ml",
-        "internship"
+        "queued"
       ],
       "notes": "",
       "added": "2026-11-07",
-      "updated": "2026-11-07"
+      "updated": "2026-11-11"
     },
     {
       "id": "zebra-technologies-2027-summer-internship-us-software-engine",
@@ -13027,12 +13029,13 @@
       "status": "dropped",
       "source": "daily-scan 2026-11-10",
       "tags": [
-        "ml",
-        "internship"
+        "dup-of-REQ380765",
+        "internship",
+        "ml"
       ],
       "notes": "",
       "added": "2026-11-10",
-      "updated": "2026-11-10"
+      "updated": "2026-11-11"
     },
     {
       "id": "docusign-agentic-ai-engineer-intern",
