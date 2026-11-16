@@ -15484,6 +15484,222 @@
       "notes": "",
       "added": "2026-11-15",
       "updated": "2026-11-15"
+    },
+    {
+      "id": "amazon-2027-applied-science-internship-robotics-united-state",
+      "company": "Amazon",
+      "role": "2027 Applied Science Internship - Robotics - United States",
+      "url": "https://www.amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states",
+      "location": "North Reading, MA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-16",
+      "tags": [
+        "ml",
+        "internship",
+        "robotics"
+      ],
+      "notes": "",
+      "added": "2026-11-16",
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "nvidia-sparse-linear-algebra-libraries-intern-cuest-summer-2",
+      "company": "NVIDIA",
+      "role": "Sparse Linear Algebra Libraries Intern, cuEST - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern--cuEST---Summer-2027_JR2027429",
+      "location": "Santa Clara, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-16",
+      "tags": [
+        "ml",
+        "internship",
+        "infra"
+      ],
+      "notes": "",
+      "added": "2026-11-16",
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "nvidia-differentiable-simulation-research-intern-summer-2027",
+      "company": "NVIDIA",
+      "role": "Differentiable Simulation Research Intern - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
+      "location": "Santa Clara, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-16",
+      "tags": [
+        "ml",
+        "internship",
+        "research"
+      ],
+      "notes": "",
+      "added": "2026-11-16",
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "nvidia-systems-research-intern-observability-summer-2027",
+      "company": "NVIDIA",
+      "role": "Systems Research Intern, Observability - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644",
+      "location": "Santa Clara, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-16",
+      "tags": [
+        "ml",
+        "internship",
+        "infra"
+      ],
+      "notes": "",
+      "added": "2026-11-16",
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "waymo-2027-summer-intern-bs-ms-scenes-2",
+      "company": "Waymo",
+      "role": "2027 Summer Intern, BS/MS, Scenes",
+      "url": "https://boards.greenhouse.io/waymo/jobs/8210170",
+      "location": "Mountain View, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-16",
+      "tags": [
+        "ml",
+        "internship",
+        "swe"
+      ],
+      "notes": "",
+      "added": "2026-11-16",
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "general-motors-2027-intern-ai-ml-engineer-autonomous-vehicle",
+      "company": "General Motors",
+      "role": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
+      "url": "https://search-careers.gm.com/en/jobs/jr-202622410/2027-intern-ai-ml-engineer-autonomous-vehicle-ml-infrastructure/",
+      "location": "Warren, MI",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-16",
+      "tags": [
+        "ml",
+        "internship",
+        "infra"
+      ],
+      "notes": "",
+      "added": "2026-11-16",
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "tiktok-machine-learning-scientist-intern-tiktok-local-servic",
+      "company": "TikTok",
+      "role": "Machine Learning Scientist Intern - TikTok-Local Services - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7703925583541979445",
+      "location": "San Jose, CA",
+      "remote": false,
+      "pay": "$60/hr",
+      "pay_source": "aggregator-estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-16",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-16",
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-data-global-e-commer-2",
+      "company": "TikTok",
+      "role": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7698822572474583301",
+      "location": "San Jose, CA",
+      "remote": false,
+      "pay": "$60/hr",
+      "pay_source": "aggregator-estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-16",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-16",
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "rivian-artificial-intelligence-machine-learning-data-summer-",
+      "company": "Rivian",
+      "role": "Artificial Intelligence - Machine Learning - & Data - Summer 2027 Internships",
+      "url": "https://us-careers-rivian.icims.com/jobs/34313/job",
+      "location": "Palo Alto, CA",
+      "remote": false,
+      "pay": "$51/hr",
+      "pay_source": "aggregator-estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-16",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-16",
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "sentry-software-engineer-intern-summer-2027-us",
+      "company": "Sentry",
+      "role": "Software Engineer, Intern (Summer 2027) - US",
+      "url": "https://sentry.io/careers/fa522ac5-fc9f-4ce1-a191-842496a235a2/",
+      "location": "US (Remote)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-16",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-16",
+      "updated": "2026-11-16"
     }
   ]
 }
