@@ -12081,7 +12081,7 @@
       "pay_source": "aggregator-estimate",
       "deadline": "2026-11-21",
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan-2026-11-04",
       "tags": [
         "swe",
@@ -12089,7 +12089,7 @@
       ],
       "notes": "",
       "added": "2026-11-04",
-      "updated": "2026-11-04"
+      "updated": "2026-11-17"
     },
     {
       "id": "microsoft-software-engineer-intern-opportunities-for-univers",
