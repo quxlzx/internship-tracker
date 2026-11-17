@@ -15700,6 +15700,48 @@
       "notes": "",
       "added": "2026-11-16",
       "updated": "2026-11-16"
+    },
+    {
+      "id": "mit-lincoln-laboratory-summer-research-program-intern-2027-a",
+      "company": "MIT Lincoln Laboratory",
+      "role": "Summer Research Program Intern 2027, AI & Machine Learning Researcher (Group 05-52)",
+      "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-AI-&-Machine-Learning-Researcher-%28Group-05-52%29-MA-02420/1438250000/",
+      "location": "Lexington, MA",
+      "remote": false,
+      "pay": "$25.00-$42.50/hr (by academic year)",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-17",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-17",
+      "updated": "2026-11-17"
+    },
+    {
+      "id": "honeywell-technologies-artificial-intelligence-machine-learn",
+      "company": "Honeywell Technologies",
+      "role": "Artificial Intelligence/Machine Learning - Summer 2027 Intern",
+      "url": "https://app.joinhandshake.com/public/jobs/11720253",
+      "location": "United States (remote)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-17",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-17",
+      "updated": "2026-11-17"
     }
   ]
 }
