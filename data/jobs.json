@@ -11002,13 +11002,14 @@
       "status": "new",
       "source": "daily-scan-2026-10-29",
       "tags": [
-        "ml",
         "internship",
+        "ml",
+        "queued",
         "robotics"
       ],
       "notes": "",
       "added": "2026-10-29",
-      "updated": "2026-10-29"
+      "updated": "2026-11-18"
     },
     {
       "id": "globalfoundries-ai-ml-systems-engineering-intern-summer-2027",
@@ -11474,7 +11475,7 @@
       "pay_source": "",
       "deadline": "2026-11-13",
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan-2026-11-01",
       "tags": [
         "swe",
@@ -11482,7 +11483,7 @@
       ],
       "notes": "",
       "added": "2026-11-01",
-      "updated": "2026-11-01"
+      "updated": "2026-11-18"
     },
     {
       "id": "applied-materials-summer-2027-data-science-intern-bachelor-s",
@@ -12017,7 +12018,7 @@
       "pay_source": "",
       "deadline": "2026-11-13",
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan-2026-11-04",
       "tags": [
         "swe",
@@ -12025,7 +12026,7 @@
       ],
       "notes": "",
       "added": "2026-11-04",
-      "updated": "2026-11-04"
+      "updated": "2026-11-18"
     },
     {
       "id": "ptc-onshape-onshape-software-engineer-intern-summer-2027",
@@ -12688,7 +12689,7 @@
       "pay_source": "",
       "deadline": "2026-11-09",
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan-2026-11-07",
       "tags": [
         "ml",
@@ -12696,7 +12697,7 @@
       ],
       "notes": "",
       "added": "2026-11-07",
-      "updated": "2026-11-07"
+      "updated": "2026-11-18"
     },
     {
       "id": "leidos-software-engineering-ai-intern",
@@ -14875,7 +14876,7 @@
       "pay_source": "",
       "deadline": "2026-11-13",
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-11",
       "tags": [
         "swe",
@@ -14883,7 +14884,7 @@
       ],
       "notes": "",
       "added": "2026-11-11",
-      "updated": "2026-11-11"
+      "updated": "2026-11-18"
     },
     {
       "id": "johnson-johnson-software-engineering-co-op-summer-2027",
@@ -15219,7 +15220,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan-2026-11-14",
       "tags": [
         "swe",
@@ -15228,7 +15229,7 @@
       ],
       "notes": "",
       "added": "2026-11-14",
-      "updated": "2026-11-14"
+      "updated": "2026-11-18"
     },
     {
       "id": "intuitive-surgical-ai-ml-engineer-intern",
@@ -15742,6 +15743,354 @@
       "notes": "",
       "added": "2026-11-17",
       "updated": "2026-11-17"
+    },
+    {
+      "id": "meta-research-intern-neural-network-training-and-hardware-so",
+      "company": "Meta",
+      "role": "Research Intern — Neural Network Training and Hardware-Software Co-Design",
+      "url": "https://www.metacareers.com/jobs/1560905132724186",
+      "location": "Burlingame, CA",
+      "remote": false,
+      "pay": "$50/hr",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship",
+        "ai-infra"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "samsung-semiconductor-intern-ml-compiler-kernel-auto-tuning",
+      "company": "Samsung Semiconductor",
+      "role": "Intern - ML Compiler - Kernel Auto-Tuning",
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003",
+      "location": "San Jose, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship",
+        "ai-infra"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "samsung-semiconductor-intern-ai-systems-performance-engineer",
+      "company": "Samsung Semiconductor",
+      "role": "Intern - AI Systems Performance Engineer",
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202927003",
+      "location": "San Jose, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship",
+        "ai-infra"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "kensho-s-p-global-machine-learning-engineer-summer-intern-20",
+      "company": "Kensho (S&P Global)",
+      "role": "Machine Learning Engineer - Summer Intern 2027",
+      "url": "https://spgi.wd5.myworkdayjobs.com/en-US/kensho_careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714",
+      "location": "Cambridge, MA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "docusign-agentic-ai-engineer-intern-2",
+      "company": "Docusign",
+      "role": "Agentic AI Engineer Intern",
+      "url": "https://uscareers-docusign.icims.com/jobs/30587/job",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship",
+        "llm",
+        "agents"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "bosch-ai-research-intern-time-series-foundation-models",
+      "company": "Bosch",
+      "role": "AI Research Intern - Time Series Foundation Models",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161339309-ai-research-intern-time-series-foundation-models",
+      "location": "Sunnyvale, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship",
+        "llm"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "syntiant-internship-devops-machine-learning-infrastructure",
+      "company": "Syntiant",
+      "role": "Internship - DevOps Machine Learning Infrastructure",
+      "url": "https://apply.workable.com/syntiant/j/468B53B345/",
+      "location": "Irvine, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship",
+        "ai-infra"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "general-motors-2027-summer-intern-machine-learning-engineer--3",
+      "company": "General Motors",
+      "role": "2027 Summer Intern - Machine Learning Engineer - AV/AI Platform",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
+      "location": "Sunnyvale, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "lightmatter-data-ai-platform-intern-summer-2027",
+      "company": "Lightmatter",
+      "role": "Data & AI Platform - Intern - Summer 2027",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008",
+      "location": "Boston, MA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship",
+        "ai-infra"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "semianalysis-research-analyst-intern-ai-infrastructure-econo",
+      "company": "SemiAnalysis",
+      "role": "Research Analyst Intern - AI Infrastructure & Economics",
+      "url": "https://app.dover.io/apply/job/55d10dcf-6579-495e-bc33-9c7fdafa6149/",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "internship",
+        "ai-infra"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "icf-2027-summer-intern-ai-engineer-undergrad",
+      "company": "ICF",
+      "role": "2027 Summer Intern - AI Engineer (undergrad)",
+      "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518",
+      "location": "Reston, VA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship",
+        "ai-infra"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "raft-ai-ml-intern-summer-2027",
+      "company": "Raft",
+      "role": "AI/ML Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/raft/jobs/6240555004",
+      "location": "McLean, VA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "forterra-2027-intern-software",
+      "company": "Forterra",
+      "role": "2027 Intern - Software",
+      "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
+      "location": "Clarksburg, MD",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "internship",
+        "swe"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "epic-games-ai-programmer-intern",
+      "company": "Epic Games",
+      "role": "AI Programmer Intern",
+      "url": "https://epicgames.com/careers/jobs/6251540004",
+      "location": "Cary, NC",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "ml",
+        "internship",
+        "swe"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "datarobot-software-design-engineer-intern",
+      "company": "DataRobot",
+      "role": "Software Design Engineer Intern",
+      "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/datarobot_external_careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764",
+      "location": "Remote (Boston, MA +3)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "internship",
+        "swe",
+        "ai-infra"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
+    },
+    {
+      "id": "asml-internship-integrate-gui-and-llm",
+      "company": "ASML",
+      "role": "Internship - Integrate GUI and LLM",
+      "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Integrate-GUI-and-LLM_J-00357014",
+      "location": "San Jose, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-18",
+      "tags": [
+        "internship",
+        "llm",
+        "swe"
+      ],
+      "notes": "",
+      "added": "2026-11-18",
+      "updated": "2026-11-18"
     }
   ]
 }
