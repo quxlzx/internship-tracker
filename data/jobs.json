@@ -10999,17 +10999,18 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan-2026-10-29",
       "tags": [
         "internship",
         "ml",
+        "posting-removed-2026-11-21",
         "queued",
         "robotics"
       ],
       "notes": "",
       "added": "2026-10-29",
-      "updated": "2026-11-18"
+      "updated": "2026-11-21"
     },
     {
       "id": "globalfoundries-ai-ml-systems-engineering-intern-summer-2027",
@@ -11153,16 +11154,17 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "dropped",
       "source": "daily-scan-2026-10-29",
       "tags": [
-        "ml",
+        "ai",
         "internship",
-        "ai"
+        "ml",
+        "queued"
       ],
-      "notes": "",
+      "notes": "dead URL: greenhouse redirect ?error=true (or migrated ATS) — verified 2026-11-18",
       "added": "2026-10-29",
-      "updated": "2026-10-29"
+      "updated": "2026-11-21"
     },
     {
       "id": "general-motors-2027-summer-intern-ai-ml-engineer-autonomous-",
@@ -11284,15 +11286,16 @@
       "pay_source": "aggregator-estimate",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "dropped",
       "source": "daily-scan-2026-10-31",
       "tags": [
+        "internship",
         "ml",
-        "internship"
+        "queued"
       ],
-      "notes": "",
+      "notes": "dead URL: greenhouse redirect ?error=true (or migrated ATS) — verified 2026-11-18",
       "added": "2026-10-31",
-      "updated": "2026-10-31"
+      "updated": "2026-11-21"
     },
     {
       "id": "waymo-2027-summer-intern-bs-ms-phd-ai-driven-ml-performance-",
@@ -11305,16 +11308,17 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "dropped",
       "source": "daily-scan-2026-10-31",
       "tags": [
-        "ml",
+        "ai-infra",
         "internship",
-        "ai-infra"
+        "ml",
+        "queued"
       ],
-      "notes": "",
+      "notes": "dead URL: greenhouse redirect ?error=true (or migrated ATS) — verified 2026-11-18",
       "added": "2026-10-31",
-      "updated": "2026-10-31"
+      "updated": "2026-11-21"
     },
     {
       "id": "amazon-software-development-engineer-intern-machine-learning",
@@ -11411,15 +11415,15 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "dropped",
       "source": "daily-scan-2026-11-01",
       "tags": [
         "swe",
         "internship"
       ],
-      "notes": "",
+      "notes": "migrated to careers.withwaymo.com — greenhouse URL redirects to search",
       "added": "2026-11-01",
-      "updated": "2026-11-01"
+      "updated": "2026-11-21"
     },
     {
       "id": "salesforce-ai-labs-summer-internship-emerging-talent",
@@ -11783,14 +11787,15 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "dropped",
       "source": "daily-scan-2026-11-02",
       "tags": [
+        "queued",
         "swe"
       ],
-      "notes": "",
+      "notes": "dead URL: greenhouse redirect ?error=true (or migrated ATS) — verified 2026-11-18",
       "added": "2026-11-02",
-      "updated": "2026-11-02"
+      "updated": "2026-11-21"
     },
     {
       "id": "nvidia-ai-systems-software-engineering-intern-summer-2027-2",
@@ -13406,15 +13411,16 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "dropped",
       "source": "daily-scan 2026-11-11",
       "tags": [
+        "internship",
         "ml",
-        "internship"
+        "queued"
       ],
-      "notes": "",
+      "notes": "dead URL: greenhouse redirect ?error=true (or migrated ATS) — verified 2026-11-18",
       "added": "2026-11-11",
-      "updated": "2026-11-11"
+      "updated": "2026-11-21"
     },
     {
       "id": "toyota-research-institute-automated-driving-advanced-develop",
