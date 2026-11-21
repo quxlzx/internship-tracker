@@ -1,0 +1,47 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Internship Tracker</title>
+<style>
+:root{--bg:#0f1117;--card:#171a23;--tx:#e6e8ee;--dim:#8b93a7;--acc:#5aa9ff;--ok:#43c577;--warn:#e6a23c;--bad:#e05c5c}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.45 system-ui,sans-serif}
+header{padding:18px 22px;display:flex;gap:14px;align-items:center;flex-wrap:wrap;border-bottom:1px solid #232837}
+h1{font-size:18px;margin:0}select,input{background:var(--card);color:var(--tx);border:1px solid #2a3040;border-radius:8px;padding:8px 10px;font-size:14px}
+input{flex:1;min-width:180px}
+#stats{color:var(--dim);font-size:13px;margin-left:auto}
+main{padding:16px 22px;max-width:1200px}
+.job{background:var(--card);border:1px solid #232837;border-radius:10px;padding:12px 14px;margin-bottom:10px;display:grid;grid-template-columns:1fr auto;gap:6px}
+.job a{color:var(--acc);text-decoration:none;font-weight:600}.job a:hover{text-decoration:underline}
+.meta{color:var(--dim);font-size:13px;grid-column:1/-1}
+.badge{font-size:11px;padding:2px 8px;border-radius:99px;border:1px solid #2a3040;text-transform:uppercase;letter-spacing:.04em}
+.st-new{color:var(--ok)}.st-interested{color:var(--acc)}.st-applied{color:var(--warn)}.st-dropped,.st-closed{color:var(--bad)}
+.tags span{display:inline-block;background:#20263a;border-radius:6px;padding:1px 7px;margin:2px 3px 0 0;font-size:12px;color:#aab4cc}
+.pay{color:#c8d3ee}
+</style></head><body>
+<header><h1>🎯 Internship Tracker</h1>
+<select id="status"><option value="">all statuses</option></select>
+<select id="tag"><option value="">all tags</option></select>
+<input id="q" placeholder="search company / role / location…">
+<span id="stats"></span></header><main id="list"></main>
+<script>
+const $=s=>document.querySelector(s);
+async function load(){
+  const p=new URLSearchParams({status:$('#status').value,tag:$('#tag').value,q:$('#q').value});
+  const r=await fetch('/api/jobs?'+p);const d=await r.json();
+  $('#stats').textContent=`${d.shown} shown / ${d.total} total`;
+  $('#list').innerHTML=d.jobs.map(j=>`<div class="job"><div><a href="${j.url}" target="_blank">${esc(j.company)} — ${esc(j.role)}</a>
+    <div class="tags">${(j.tags||[]).map(t=>`<span>${esc(t)}</span>`).join('')}</div></div>
+    <span class="badge st-${j.status}">${j.status}</span>
+    <div class="meta">${esc(j.location||'')} · ${esc(j.term||'')} · ${j.pay?`<span class="pay">${esc(j.pay)}</span> · `:''}added ${esc(j.added||'')}${j.deadline?` · deadline ${esc(j.deadline)}`:''}</div></div>`).join('')||'<p style="color:#8b93a7">nothing matches</p>';
+}
+function esc(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+async function init(){
+  const d=await(await fetch('/api/jobs')).json();
+  const sts=[...new Set(d.jobs.map(j=>j.status))].sort();
+  const tags=[...new Set(d.jobs.flatMap(j=>j.tags||[]))].sort();
+  sts.forEach(s=>$('#status').insertAdjacentHTML('beforeend',`<option>${s}</option>`));
+  tags.forEach(t=>$('#tag').insertAdjacentHTML('beforeend',`<option>${t}</option>`));
+  ['status','tag'].forEach(id=>$('#'+id).onchange=load);
+  let t;$('#q').oninput=()=>{clearTimeout(t);t=setTimeout(load,250)};
+  load();
+}init();
+</script></body></html>
