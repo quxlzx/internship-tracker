@@ -19154,7 +19154,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-19",
       "tags": [
         "ml",
@@ -19162,7 +19162,7 @@
       ],
       "notes": "speedyapply age: 7d",
       "added": "2026-11-19",
-      "updated": "2026-11-19"
+      "updated": "2026-11-23"
     },
     {
       "id": "globalfoundries-ai-processor-hardware-software-integration-e",
@@ -19595,7 +19595,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-19",
       "tags": [
         "ml",
@@ -19603,7 +19603,7 @@
       ],
       "notes": "speedyapply age: 9d",
       "added": "2026-11-19",
-      "updated": "2026-11-19"
+      "updated": "2026-11-23"
     },
     {
       "id": "hp-cloud-engineering-intern-hp-iq",
@@ -20234,7 +20234,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan-2026-11-20",
       "tags": [
         "ml",
@@ -20243,7 +20243,7 @@
       ],
       "notes": "",
       "added": "2026-11-20",
-      "updated": "2026-11-20"
+      "updated": "2026-11-23"
     },
     {
       "id": "bristol-myers-squibb-data-science-intern-undergrad-summer-20",
@@ -21089,6 +21089,176 @@
       "notes": "",
       "added": "2026-11-22",
       "updated": "2026-11-22"
+    },
+    {
+      "id": "nvidia-compiler-software-engineering-intern-summer-2027-2",
+      "company": "NVIDIA",
+      "role": "Compiler Software Engineering Intern - Summer 2027",
+      "url": "https://jobs.nvidia.com/careers/job/893398311676",
+      "location": "Austin, TX / Remote",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": "2026-11-23",
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-23",
+      "tags": [
+        "ml",
+        "internship",
+        "ai-infra"
+      ],
+      "notes": "",
+      "added": "2026-11-23",
+      "updated": "2026-11-23"
+    },
+    {
+      "id": "lucid-motors-intern-ai-ml-vehicle-infotainment-summer-2027",
+      "company": "Lucid Motors",
+      "role": "Intern, AI/ML, Vehicle Infotainment, Summer 2027",
+      "url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007",
+      "location": "Newark, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-23",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-23",
+      "updated": "2026-11-23"
+    },
+    {
+      "id": "gdit-summer-2027-ai-and-estimation-intern",
+      "company": "GDIT",
+      "role": "Summer 2027 AI and Estimation Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-AI-and-Estimation-Intern_RQ232867",
+      "location": "Falls Church, VA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-23",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-23",
+      "updated": "2026-11-23"
+    },
+    {
+      "id": "docusign-ai-platform-engineer-intern",
+      "company": "DocuSign",
+      "role": "AI Platform Engineer Intern",
+      "url": "https://uscareers-docusign.icims.com/jobs/30578/ai-platform-engineer-intern/job",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-23",
+      "tags": [
+        "ml",
+        "internship",
+        "ai-infra"
+      ],
+      "notes": "",
+      "added": "2026-11-23",
+      "updated": "2026-11-23"
+    },
+    {
+      "id": "noblis-summer-2027-data-science-and-innovation-intern",
+      "company": "Noblis",
+      "role": "Summer 2027 - Data Science and Innovation Intern",
+      "url": "https://jobs-noblis.icims.com/jobs/28097/job",
+      "location": "Reston, VA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-23",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-23",
+      "updated": "2026-11-23"
+    },
+    {
+      "id": "woodward-ai-summer-2027-internship",
+      "company": "Woodward",
+      "role": "AI Summer 2027 Internship",
+      "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
+      "location": "Fort Collins, CO / Niles, IL",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-23",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-23",
+      "updated": "2026-11-23"
+    },
+    {
+      "id": "honeywell-aerospace-software-engineer-intern-summer-2027",
+      "company": "Honeywell Aerospace",
+      "role": "Software Engineer Intern - Summer 2027",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718",
+      "location": "United States (multiple)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-23",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-23",
+      "updated": "2026-11-23"
+    },
+    {
+      "id": "sierra-space-2027-summer-internship-software-engineering",
+      "company": "Sierra Space",
+      "role": "2027 Summer Internship - Software Engineering",
+      "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1",
+      "location": "Centennial, CO (+4 others)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan 2026-11-23",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-23",
+      "updated": "2026-11-23"
     }
   ]
 }
