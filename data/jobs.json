@@ -21101,7 +21101,7 @@
       "pay_source": "",
       "deadline": "2026-11-23",
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-23",
       "tags": [
         "ml",
@@ -21110,7 +21110,7 @@
       ],
       "notes": "",
       "added": "2026-11-23",
-      "updated": "2026-11-23"
+      "updated": "2026-11-24"
     },
     {
       "id": "lucid-motors-intern-ai-ml-vehicle-infotainment-summer-2027",
@@ -21259,6 +21259,177 @@
       "notes": "",
       "added": "2026-11-23",
       "updated": "2026-11-23"
+    },
+    {
+      "id": "rivian-software-engineering-intern-ai-platform-autonomy-summ",
+      "company": "Rivian",
+      "role": "Software Engineering Intern - AI Platform - Autonomy - Summer 2027",
+      "url": "https://us-careers-rivian.icims.com/jobs/37339/job",
+      "location": "Palo Alto, CA",
+      "remote": false,
+      "pay": "$51/hr",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-24",
+      "tags": [
+        "ml",
+        "internship",
+        "swe"
+      ],
+      "notes": "",
+      "added": "2026-11-24",
+      "updated": "2026-11-24"
+    },
+    {
+      "id": "rivian-computer-vision-software-summer-2027-internships",
+      "company": "Rivian",
+      "role": "Computer Vision Software - Summer 2027 Internships",
+      "url": "https://us-careers-rivian.icims.com/jobs/34315/job",
+      "location": "Palo Alto, CA",
+      "remote": false,
+      "pay": "$51/hr",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-24",
+      "tags": [
+        "ml",
+        "internship",
+        "cv"
+      ],
+      "notes": "",
+      "added": "2026-11-24",
+      "updated": "2026-11-24"
+    },
+    {
+      "id": "meta-software-engineering-intern",
+      "company": "Meta",
+      "role": "Software Engineering Intern",
+      "url": "https://www.metacareers.com/jobs/1952991802037374",
+      "location": "Bellevue, WA +3",
+      "remote": false,
+      "pay": "$50/hr",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-24",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-24",
+      "updated": "2026-11-24"
+    },
+    {
+      "id": "salesforce-summer-2027-intern-software-engineer-security-gov",
+      "company": "Salesforce",
+      "role": "Summer 2027 Intern - Software Engineer - Security/Government",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
+      "location": "California, USA +2",
+      "remote": false,
+      "pay": "$54/hr",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-24",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-24",
+      "updated": "2026-11-24"
+    },
+    {
+      "id": "imc-trading-quant-performance-engineer-intern-summer-2027",
+      "company": "IMC Trading",
+      "role": "Quant Performance Engineer Intern - Summer 2027",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+      "location": "Chicago, IL",
+      "remote": false,
+      "pay": "$95/hr",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-24",
+      "tags": [
+        "swe",
+        "internship",
+        "systems"
+      ],
+      "notes": "",
+      "added": "2026-11-24",
+      "updated": "2026-11-24"
+    },
+    {
+      "id": "nvidia-accounting-ai-solution-engineer-intern-summer-2027",
+      "company": "NVIDIA",
+      "role": "Accounting AI Solution Engineer Intern - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1",
+      "location": "Santa Clara, CA",
+      "remote": false,
+      "pay": "$62/hr",
+      "pay_source": "employer-posted",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-24",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-24",
+      "updated": "2026-11-24"
+    },
+    {
+      "id": "benchling-software-engineer-intern-summer-2027",
+      "company": "Benchling",
+      "role": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-24",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-24",
+      "updated": "2026-11-24"
+    },
+    {
+      "id": "cvent-software-engineer-intern-summer-2027-2",
+      "company": "Cvent",
+      "role": "Software Engineer Intern (Summer 2027)",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-cvent-4460032275",
+      "location": "Tysons Corner, VA",
+      "remote": false,
+      "pay": "$45/hr",
+      "pay_source": "employer-posted",
+      "deadline": "2026-12-19",
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-24",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-24",
+      "updated": "2026-11-24"
     }
   ]
 }
