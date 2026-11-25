@@ -17852,7 +17852,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-19",
       "tags": [
         "ml",
@@ -17860,7 +17860,7 @@
       ],
       "notes": "speedyapply age: 12d",
       "added": "2026-11-19",
-      "updated": "2026-11-19"
+      "updated": "2026-11-25"
     },
     {
       "id": "niural-ai-product-operator-intern",
@@ -18902,7 +18902,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-19",
       "tags": [
         "ml",
@@ -18910,7 +18910,7 @@
       ],
       "notes": "speedyapply age: 5d",
       "added": "2026-11-19",
-      "updated": "2026-11-19"
+      "updated": "2026-11-25"
     },
     {
       "id": "valeo-software-engineer-intern-year-round",
@@ -19742,7 +19742,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-19",
       "tags": [
         "ml",
@@ -19750,7 +19750,7 @@
       ],
       "notes": "speedyapply age: 9d",
       "added": "2026-11-19",
-      "updated": "2026-11-19"
+      "updated": "2026-11-25"
     },
     {
       "id": "astranis-space-technologies-embedded-software-developer-netw-2",
@@ -19931,7 +19931,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-19",
       "tags": [
         "ml",
@@ -19939,7 +19939,7 @@
       ],
       "notes": "speedyapply age: 13d",
       "added": "2026-11-19",
-      "updated": "2026-11-19"
+      "updated": "2026-11-25"
     },
     {
       "id": "apex-technology-software-engineering-internship-embedded-sys",
@@ -19973,7 +19973,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-19",
       "tags": [
         "ml",
@@ -19981,7 +19981,7 @@
       ],
       "notes": "speedyapply age: 13d",
       "added": "2026-11-19",
-      "updated": "2026-11-19"
+      "updated": "2026-11-25"
     },
     {
       "id": "light-wonder-intern-software-engineering",
@@ -21165,7 +21165,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-23",
       "tags": [
         "ml",
@@ -21174,7 +21174,7 @@
       ],
       "notes": "",
       "added": "2026-11-23",
-      "updated": "2026-11-23"
+      "updated": "2026-11-25"
     },
     {
       "id": "noblis-summer-2027-data-science-and-innovation-intern",
@@ -21430,6 +21430,220 @@
       "notes": "",
       "added": "2026-11-24",
       "updated": "2026-11-24"
+    },
+    {
+      "id": "amazon-software-development-engineer-intern-artificial-gener",
+      "company": "Amazon",
+      "role": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+      "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+      "location": "Sunnyvale, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-25",
+      "tags": [
+        "ml",
+        "internship",
+        "llm"
+      ],
+      "notes": "",
+      "added": "2026-11-25",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "microsoft-software-engineering-intern-ctj-ts",
+      "company": "Microsoft",
+      "role": "Software Engineering Intern - CTJ - TS",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+      "location": "Reston, VA",
+      "remote": false,
+      "pay": "$52/hr",
+      "pay_source": "aggregator estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-25",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-25",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "microsoft-software-engineering-intern-ctj-ts-2",
+      "company": "Microsoft",
+      "role": "Software Engineering Intern - CTJ - TS",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+      "location": "Redmond, WA",
+      "remote": false,
+      "pay": "$52/hr",
+      "pay_source": "aggregator estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-25",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-25",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "unity-machine-learning-engineer-internship-req-6087",
+      "company": "Unity",
+      "role": "Machine Learning Engineer Internship (Req 6087)",
+      "url": "https://unitytech.wd1.myworkdayjobs.com/en-US/unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965",
+      "location": "Remote - Mountain View, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-25",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-25",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "globalfoundries-ai-ml-analytics-intern-digital-manufacturing",
+      "company": "GlobalFoundries",
+      "role": "AI/ML Analytics Intern - Digital Manufacturing - Summer 2027",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---New-York---Malta/AI-ML-Analytics-Intern--Digital-Manufacturing--Summer-2027-_JR-2604570",
+      "location": "Malta, NY (+2 US sites)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-25",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-25",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "tiktok-software-engineer-intern-agentic-creation-aigc-2027-s",
+      "company": "TikTok",
+      "role": "Software Engineer Intern - Agentic Creation AIGC - 2027 Summer",
+      "url": "https://lifeattiktok.com/search/7668675500744837381",
+      "location": "San Jose, CA",
+      "remote": false,
+      "pay": "$60/hr",
+      "pay_source": "aggregator estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-25",
+      "tags": [
+        "ml",
+        "internship",
+        "llm"
+      ],
+      "notes": "",
+      "added": "2026-11-25",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "tiktok-software-engineer-intern-recommendation-infra-perform",
+      "company": "TikTok",
+      "role": "Software Engineer Intern - Recommendation Infra, Performance Efficiency - 2027 Summer",
+      "url": "https://lifeattiktok.com/search/7675159726676101381",
+      "location": "San Jose, CA",
+      "remote": false,
+      "pay": "$60/hr",
+      "pay_source": "aggregator estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-25",
+      "tags": [
+        "swe",
+        "internship",
+        "infra"
+      ],
+      "notes": "",
+      "added": "2026-11-25",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "bosch-ai-research-intern-wireless-foundation-models",
+      "company": "Bosch",
+      "role": "AI Research Intern: Wireless Foundation Models",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156323136-ai-research-intern-wireless-foundation-models",
+      "location": "Pittsburgh, PA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-25",
+      "tags": [
+        "ml",
+        "internship",
+        "llm"
+      ],
+      "notes": "",
+      "added": "2026-11-25",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "asml-internship-co-op-ai-engineer-4",
+      "company": "ASML",
+      "role": "Internship/Co-Op: AI Engineer",
+      "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00358475",
+      "location": "San Diego, CA",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-25",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-25",
+      "updated": "2026-11-25"
+    },
+    {
+      "id": "epic-games-machine-learning-intern",
+      "company": "Epic Games",
+      "role": "Machine Learning Intern",
+      "url": "https://job-boards.greenhouse.io/epicgames/jobs/6138134004",
+      "location": "US (multiple locations)",
+      "remote": false,
+      "pay": "",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-25",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-25",
+      "updated": "2026-11-25"
     }
   ]
 }
