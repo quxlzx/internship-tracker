@@ -21644,6 +21644,27 @@
       "notes": "",
       "added": "2026-11-25",
       "updated": "2026-11-25"
+    },
+    {
+      "id": "rivian-software-engineering-intern-applications-summer-2027",
+      "company": "Rivian",
+      "role": "Software Engineering Intern - Applications - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160",
+      "location": "Palo Alto, CA",
+      "remote": false,
+      "pay": "$51/hr",
+      "pay_source": "aggregator estimate",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-26",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-26",
+      "updated": "2026-11-26"
     }
   ]
 }
