@@ -14357,7 +14357,7 @@
       "pay_source": "",
       "deadline": null,
       "term": "Summer 2027",
-      "status": "new",
+      "status": "closed",
       "source": "daily-scan 2026-11-11",
       "tags": [
         "ml",
@@ -14365,7 +14365,7 @@
       ],
       "notes": "",
       "added": "2026-11-11",
-      "updated": "2026-11-11"
+      "updated": "2026-11-27"
     },
     {
       "id": "jm-family-ai-intern",
@@ -21665,6 +21665,69 @@
       "notes": "",
       "added": "2026-11-26",
       "updated": "2026-11-26"
+    },
+    {
+      "id": "nvidia-developer-technology-intern-ai-summer-2027",
+      "company": "NVIDIA",
+      "role": "Developer Technology Intern - AI - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178",
+      "location": "Santa Clara, CA",
+      "remote": false,
+      "pay": "$62/hr (aggregator-reported)",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-27",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-27",
+      "updated": "2026-11-27"
+    },
+    {
+      "id": "nvidia-software-engineering-intern-simulation-technology-sum",
+      "company": "NVIDIA",
+      "role": "Software Engineering Intern - Simulation Technology - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531",
+      "location": "Santa Clara, CA",
+      "remote": false,
+      "pay": "$62/hr (aggregator-reported)",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-27",
+      "tags": [
+        "swe",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-27",
+      "updated": "2026-11-27"
+    },
+    {
+      "id": "nvidia-ai-and-quant-devtech-engineering-intern-summer-2027",
+      "company": "NVIDIA",
+      "role": "AI and Quant DevTech Engineering Intern - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517",
+      "location": "Santa Clara, CA",
+      "remote": false,
+      "pay": "$62/hr (aggregator-reported)",
+      "pay_source": "",
+      "deadline": null,
+      "term": "Summer 2027",
+      "status": "new",
+      "source": "daily-scan-2026-11-27",
+      "tags": [
+        "ml",
+        "internship"
+      ],
+      "notes": "",
+      "added": "2026-11-27",
+      "updated": "2026-11-27"
     }
   ]
 }
